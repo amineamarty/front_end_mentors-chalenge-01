@@ -1,2 +1,2 @@
-# front_end_mentors-chalenge-01
-three card_front_end_mentor
+# three_card_front_end_mentor
+three_card front end mentor
